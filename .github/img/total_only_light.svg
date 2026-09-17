@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 572 100" width="572" height="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">
+<rect x="0.75" y="0.75" width="571.0" height="99.0" fill="none" stroke="#1f2328" stroke-width="1.5"/>
+<line x1="0.75" y1="33.75" x2="571.7" y2="33.75" stroke="#1f2328" stroke-width="1.5"/>
+<line x1="0.75" y1="66.75" x2="571.7" y2="66.75" stroke="#1f2328" stroke-width="1.5"/>
+<line x1="140.8" y1="0.75" x2="140.8" y2="99.8" stroke="#1f2328" stroke-width="1.5"/>
+<line x1="208.8" y1="0.75" x2="208.8" y2="99.8" stroke="#1f2328" stroke-width="1.5"/>
+<text x="14.8" y="21.5" text-anchor="start" font-weight="600">Variable</text>
+<text x="174.8" y="21.5" text-anchor="middle" font-weight="600">Type</text>
+<text x="222.8" y="21.5" text-anchor="start" font-weight="600">Description</text>
+<text x="14.8" y="54.5" text-anchor="start" font-family="Consolas, Menlo, monospace">source_csv</text>
+<text x="174.8" y="54.5" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="222.8" y="54.5" text-anchor="start">Year file the row comes from.</text>
+<text x="14.8" y="87.5" text-anchor="start" font-family="Consolas, Menlo, monospace">also_scored_in</text>
+<text x="174.8" y="87.5" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="222.8" y="87.5" text-anchor="start">Other year file that scored the same roll call, if any.</text>
+</svg>
