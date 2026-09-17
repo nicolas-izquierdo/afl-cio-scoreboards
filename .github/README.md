@@ -11,9 +11,9 @@
   <img src="screenshot.png" alt="AFL-CIO Scoreboard Example" width="95%">
 </p>
 
-<table align="center" width="100%" frame="box">
+<table align="center" frame="box">
   <tr>
-    <td align="center">
+    <td align="center" width="653">
       This repository collects AFL-CIO <b>legislative scoreboards</b> of the U.S. Congress between 1967 and 2025 and provides <b>machine-readable, bill-level CSV files</b>.
     </td>
   </tr>
