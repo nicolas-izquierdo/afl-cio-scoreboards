@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-### <img src="img/sp.svg" align="bottom"> Data
+### Data<img src="img/sp.svg" align="bottom">
 
 <p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="img/data_c1_dark.svg#h"><img src="img/data_c1_light.svg#h" align="top"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="img/data_c2_dark.svg#h"><img src="img/data_c2_light.svg#h" align="top"></picture><br>
@@ -29,7 +29,7 @@
 </p>
 
 
-### <img src="img/sp.svg" align="bottom"> Structure
+### Structure<img src="img/sp.svg" align="bottom">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/structure_dark.svg">
@@ -43,7 +43,7 @@
   <img src="img/total_only_light.svg" width="572">
 </picture>
 
-### <img src="img/sp.svg" align="bottom"> Data and Scoreboards (by year)
+### Data and Scoreboards (by year)<img src="img/sp.svg" align="bottom">
 
 <details>
 <summary><picture><source media="(prefers-color-scheme: dark)" srcset="img/years_labels_dark.svg#l0"><img src="img/years_labels_light.svg#l0" align="top"></picture></summary>
@@ -147,7 +147,7 @@
 </p>
 </details>
 
-### <img src="img/sp.svg" align="bottom"> Sources
+### Sources<img src="img/sp.svg" align="bottom">
 
 ▸ AFL-CIO publications (current and archived versions via [Wayback Machine](https://web.archive.org/))  
 ▸ Historical issues of *AFL-CIO News* available at [Internet Archive AFL-CIO News collection](https://archive.org/search?query=creator%3A%22AFL-CIO%22+%22news%22)  
