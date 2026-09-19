@@ -21,7 +21,7 @@
 
 ### Description<img src="img/sp.svg" align="bottom">
 
-The American Federation of Labor-Congress of Industrial Organizations (AFL-CIO) annually publishes legislative scorecards rating U.S. senators and representatives. Through these scorecards, the AFL-CIO assesses roll-call votes on measures "affecting working people's rights, jobs, pay, benefits, quality of life and more" and, therefore, "how often each elected official voted in accordance with an AFL-CIO vote recommendation on a Housewide or Senatewide matter." 
+The <a href="https://aflcio.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/aflcio_name_dark.svg"><img src="img/aflcio_name_light.svg" align="top"></picture></a> (AFL-CIO) annually publishes [legislative scorecards](https://en.wikipedia.org/wiki/Legislative_scorecard) rating U.S. senators and representatives. Through these scorecards, the AFL-CIO assesses roll-call votes on issues that "affect working people's rights, jobs, pay, benefits, quality of life and more" and, therefore, "how often each elected official voted in accordance with an AFL-CIO vote recommendation on a Housewide or Senatewide matter" (AFL-CIO, n.d.).
 
 This project collects all such scorecards issued between 1967 and 2025 and keeps every scored bill in machine-readable CSV format.
 
@@ -160,3 +160,7 @@ This project collects all such scorecards issued between 1967 and 2025 and keeps
 ▸ Historical issues of *AFL-CIO News* available at [Internet Archive AFL-CIO News collection](https://archive.org/search?query=creator%3A%22AFL-CIO%22+%22news%22)  
 ▸ Volumes of *AFL-CIO News* (1956–1996) digitised by the [University of Maryland, College Park](https://archive.org/search?query=collection%3A%22university_maryland_cp%22+title%3A%22AFL-CIO+news%22)  
 ▸ [VoteView](https://voteview.com)
+
+### References<img src="img/sp.svg" align="bottom">
+
+AFL-CIO. (n.d.). *Legislative Scorecard*. Retrieved September 19, 2026, from https://aflcio.org/scorecard
