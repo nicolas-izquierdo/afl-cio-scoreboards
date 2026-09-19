@@ -21,9 +21,7 @@
 
 ### Description<img src="img/sp.svg" align="bottom">
 
-The American Federation of Labor-Congress of Industrial Organizations (AFL-CIO) annually publishes legislative scorecards rating U.S. senators and representatives.
-
-Through these scorecards, the AFL-CIO assesses roll-call votes on measures "affecting working people's rights, jobs, pay, benefits, quality of life and more."
+The American Federation of Labor-Congress of Industrial Organizations (AFL-CIO) annually publishes legislative scorecards rating U.S. senators and representatives. Through these scorecards, the AFL-CIO assesses roll-call votes on measures "affecting working people's rights, jobs, pay, benefits, quality of life and more" and, therefore, "how often each elected official voted in accordance with an AFL-CIO vote recommendation on a Housewide or Senatewide matter." 
 
 This project collects all such scorecards issued between 1967 and 2025 and keeps every scored bill in machine-readable CSV format.
 
