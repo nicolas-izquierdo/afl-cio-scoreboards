@@ -160,5 +160,5 @@ This project collects all such scorecards issued between 1967 and 2025 and keeps
 
 ▸ AFL-CIO publications (current and archived versions via [Wayback Machine](https://web.archive.org/))  
 ▸ Historical issues of *AFL-CIO News* available at [Internet Archive AFL-CIO News collection](https://archive.org/search?query=creator%3A%22AFL-CIO%22+%22news%22)  
-▸ Bound volumes of *AFL-CIO News* (1956–1996) digitised by the [University of Maryland, College Park](https://archive.org/search?query=collection%3A%22university_maryland_cp%22+title%3A%22AFL-CIO+news%22)  
+▸ Volumes of *AFL-CIO News* (1956–1996) digitised by the [University of Maryland, College Park](https://archive.org/search?query=collection%3A%22university_maryland_cp%22+title%3A%22AFL-CIO+news%22)  
 ▸ [VoteView](https://voteview.com)
