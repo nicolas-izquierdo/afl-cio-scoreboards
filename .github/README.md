@@ -22,8 +22,7 @@
 ### Description<img src="img/sp.svg" align="bottom">
 
 The <a href="https://aflcio.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/aflcio_dark.svg"><img src="img/aflcio_light.svg" align="top"></picture></a> annually publishes [legislative scorecards](https://en.wikipedia.org/wiki/Legislative_scorecard) rating U.S. senators and representatives. In these scorecards, the AFL-CIO selects certain roll-call votes on issues that "affect working people's rights, jobs, pay, benefits, quality of life and more" in order to describe "how often each elected official voted in accordance with an AFL-CIO vote recommendation on a Housewide or Senatewide matter" [(AFL-CIO, n.d.)](#references).
-
-This project collects all such scorecards issued between 1967 and 2025 and keeps every scored bill in machine-readable CSV format.
+This repository collects all such scorecards issued between 1967 and 2025 and keeps every scored bill in machine-readable CSV format.
 
 ### Data<img src="img/sp.svg" align="bottom">
 
