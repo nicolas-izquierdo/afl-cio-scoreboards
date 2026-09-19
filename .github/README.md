@@ -11,14 +11,6 @@
   <img src="screenshot.png" alt="AFL-CIO Scorecard Example" width="95%">
 </p>
 
-<table align="center" frame="box">
-  <tr>
-    <td align="center" width="653">
-      This repository collects AFL-CIO <b>legislative scorecards</b> of the U.S. Congress between 1967 and 2025 and provides <b>machine-readable, bill-level CSV files</b>.
-    </td>
-  </tr>
-</table>
-
 ### Description<img src="img/sp.svg" align="bottom">
 
 The <a href="https://aflcio.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/aflcio_dark.svg"><img src="img/aflcio_light.svg" align="top"></picture></a> annually publishes [legislative scorecards](https://en.wikipedia.org/wiki/Legislative_scorecard) rating U.S. senators and representatives. In these scorecards, the AFL-CIO makes a selection of roll-call votes and describes "how often each elected official voted in accordance with an AFL-CIO vote recommendation on a Housewide or Senatewide matter" [(AFL-CIO, n.d.)](#references).
