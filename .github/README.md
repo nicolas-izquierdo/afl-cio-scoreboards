@@ -19,6 +19,14 @@
   </tr>
 </table>
 
+### What Is This?<img src="img/sp.svg" align="bottom">
+
+The American Federation of Labor-Congress of Industrial Organizations (AFL-CIO) annually publishes legislative scorecards rating U.S. senators and representatives.
+
+Through these scorecards, the AFL-CIO assesses roll-call votes on measures "affecting working people's rights, jobs, pay, benefits, quality of life and more."
+
+This project collects all such scorecards issued between 1967 and 2025 and keeps every scored bill in machine-readable CSV format.
+
 ### Data<img src="img/sp.svg" align="bottom">
 
 <p>
