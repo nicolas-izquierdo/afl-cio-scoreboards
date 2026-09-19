@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="34" viewBox="0 0 264 34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">
+<view id="r21" viewBox="0 0 264 34"/>
+<line x1="0" y1="33.25" x2="264" y2="33.25" stroke="#1f2328" stroke-width="1.5"/>
+<view id="r22" viewBox="0 34 264 34"/>
+<line x1="0" y1="67.25" x2="264" y2="67.25" stroke="#1f2328" stroke-width="1.5"/>
+<line x1="263.25" y1="34" x2="263.25" y2="68" stroke="#1f2328" stroke-width="1.5"/>
+<text x="14.8" y="54.5" text-anchor="start" fill="#0969da" font-family="Consolas, Menlo, monospace">scorecard_1988_newspaper.pdf</text>
+<text x="249" y="47" text-anchor="start" fill="#0969da" font-size="13">*</text>
+</svg>

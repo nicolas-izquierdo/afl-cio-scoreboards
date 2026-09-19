@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 782 728" width="782" height="728" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">
+<rect x="0.75" y="0.75" width="781.0" height="726.0" fill="none" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="33.75" x2="781.8" y2="33.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="66.75" x2="781.8" y2="66.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="99.75" x2="781.8" y2="99.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="132.75" x2="781.8" y2="132.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="165.75" x2="781.8" y2="165.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="198.75" x2="781.8" y2="198.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="231.75" x2="781.8" y2="231.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="264.75" x2="781.8" y2="264.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="297.75" x2="781.8" y2="297.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="330.75" x2="781.8" y2="330.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="363.75" x2="781.8" y2="363.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="396.75" x2="781.8" y2="396.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="429.75" x2="781.8" y2="429.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="462.75" x2="781.8" y2="462.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="495.75" x2="781.8" y2="495.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="528.75" x2="781.8" y2="528.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="561.75" x2="781.8" y2="561.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="594.75" x2="781.8" y2="594.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="627.75" x2="781.8" y2="627.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="660.75" x2="781.8" y2="660.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="0.75" y1="693.75" x2="781.8" y2="693.75" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="180.8" y1="0.75" x2="180.8" y2="726.8" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="256.8" y1="0.75" x2="256.8" y2="726.8" stroke="#e6edf3" stroke-width="1.5"/>
+<text x="14.8" y="21.5" text-anchor="start" font-weight="600">Variable</text>
+<text x="218.8" y="21.5" text-anchor="middle" font-weight="600">Type</text>
+<text x="270.8" y="21.5" text-anchor="start" font-weight="600">Description</text>
+<text x="14.8" y="54.5" text-anchor="start" font-family="Consolas, Menlo, monospace">year</text>
+<text x="218.8" y="54.5" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;int&gt;</text>
+<text x="270.8" y="54.5" text-anchor="start">Year of the scorecard, as published.</text>
+<text x="14.8" y="87.5" text-anchor="start" font-family="Consolas, Menlo, monospace">chamber</text>
+<text x="218.8" y="87.5" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="270.8" y="87.5" text-anchor="start">House or Senate.</text>
+<text x="14.8" y="120.5" text-anchor="start" font-family="Consolas, Menlo, monospace">congress</text>
+<text x="218.8" y="120.5" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;int&gt;</text>
+<text x="270.8" y="120.5" text-anchor="start">Congress in which the vote took place.</text>
+<text x="14.8" y="153.4" text-anchor="start" font-family="Consolas, Menlo, monospace">session</text>
+<text x="218.8" y="153.4" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;int&gt;</text>
+<text x="270.8" y="153.4" text-anchor="start">Session of that Congress, 1 or 2.</text>
+<text x="14.8" y="186.4" text-anchor="start" font-family="Consolas, Menlo, monospace">aflcio_num</text>
+<text x="218.8" y="186.4" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="270.8" y="186.4" text-anchor="start">Number the scorecard prints next to the vote.</text>
+<text x="14.8" y="219.4" text-anchor="start" font-family="Consolas, Menlo, monospace">bill_type</text>
+<text x="218.8" y="219.4" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="270.8" y="219.4" text-anchor="start">Kind of measure (e.g., H.R., S., H.J.Res., etc.).</text>
+<text x="14.8" y="252.4" text-anchor="start" font-family="Consolas, Menlo, monospace">bill_number</text>
+<text x="218.8" y="252.4" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="270.8" y="252.4" text-anchor="start">Number of the measure.</text>
+<text x="14.8" y="285.4" text-anchor="start" font-family="Consolas, Menlo, monospace">bill_id</text>
+<text x="218.8" y="285.4" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="270.8" y="285.4" text-anchor="start">Type, number and Congress in one code, e.g. HR5980-96.</text>
+<text x="14.8" y="318.4" text-anchor="start" font-family="Consolas, Menlo, monospace">bill_title</text>
+<text x="218.8" y="318.4" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="270.8" y="318.4" text-anchor="start">Title of the measure as the scorecard prints it.</text>
+<text x="14.8" y="351.4" text-anchor="start" font-family="Consolas, Menlo, monospace">vote_question</text>
+<text x="218.8" y="351.4" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="270.8" y="351.4" text-anchor="start">What the vote decided: passage, amendment, cloture, etc.</text>
+<text x="14.8" y="384.4" text-anchor="start" font-family="Consolas, Menlo, monospace">date</text>
+<text x="218.8" y="384.4" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;date&gt;</text>
+<text x="270.8" y="384.4" text-anchor="start">Date of the roll call.</text>
+<text x="14.8" y="417.4" text-anchor="start" font-family="Consolas, Menlo, monospace">result</text>
+<text x="218.8" y="417.4" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="270.8" y="417.4" text-anchor="start">Outcome: Passed, Rejected, Adopted or Agreed to.</text>
+<text x="14.8" y="450.4" text-anchor="start" font-family="Consolas, Menlo, monospace">yea_total</text>
+<text x="218.8" y="450.4" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;int&gt;</text>
+<text x="270.8" y="450.4" text-anchor="start">Yea votes.</text>
+<text x="14.8" y="483.4" text-anchor="start" font-family="Consolas, Menlo, monospace">nay_total</text>
+<text x="218.8" y="483.4" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;int&gt;</text>
+<text x="270.8" y="483.4" text-anchor="start">Nay votes.</text>
+<text x="14.8" y="516.5" text-anchor="start" font-family="Consolas, Menlo, monospace">aflcio_position</text>
+<text x="218.8" y="516.5" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="270.8" y="516.5" text-anchor="start">Vote the AFL-CIO asked for: Y or N.</text>
+<text x="14.8" y="549.5" text-anchor="start" font-family="Consolas, Menlo, monospace">aflcio_label</text>
+<text x="218.8" y="549.5" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="270.8" y="549.5" text-anchor="start">Which vote the AFL-CIO counted as right and which as wrong.</text>
+<text x="14.8" y="582.5" text-anchor="start" font-family="Consolas, Menlo, monospace">voteview_rollnumber</text>
+<text x="218.8" y="582.5" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;int&gt;</text>
+<text x="270.8" y="582.5" text-anchor="start">Roll call number in Voteview.</text>
+<text x="14.8" y="615.5" text-anchor="start" font-family="Consolas, Menlo, monospace">voteview_url</text>
+<text x="218.8" y="615.5" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;url&gt;</text>
+<text x="270.8" y="615.5" text-anchor="start">Link to the roll call on voteview.com.</text>
+<text x="14.8" y="648.5" text-anchor="start" font-family="Consolas, Menlo, monospace">corrections</text>
+<text x="218.8" y="648.5" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="270.8" y="648.5" text-anchor="start">Any change to what the scorecard printed, with the reason. Empty if none.</text>
+<text x="14.8" y="681.5" text-anchor="start" font-family="Consolas, Menlo, monospace">source_page</text>
+<text x="218.8" y="681.5" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;int&gt;</text>
+<text x="270.8" y="681.5" text-anchor="start">Page of the scorecard PDF the record comes from.</text>
+<text x="14.8" y="714.5" text-anchor="start" font-family="Consolas, Menlo, monospace">aflcio_description</text>
+<text x="218.8" y="714.5" text-anchor="middle" font-family="Consolas, Menlo, monospace">&lt;chr&gt;</text>
+<text x="270.8" y="714.5" text-anchor="start">The scorecard's full description of the vote.</text>
+</svg>
