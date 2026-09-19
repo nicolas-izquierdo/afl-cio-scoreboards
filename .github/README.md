@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-### What Is This?<img src="img/sp.svg" align="bottom">
+### Description<img src="img/sp.svg" align="bottom">
 
 The American Federation of Labor-Congress of Industrial Organizations (AFL-CIO) annually publishes legislative scorecards rating U.S. senators and representatives.
 
