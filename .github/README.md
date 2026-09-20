@@ -153,6 +153,13 @@ This repository collects all such scorecards issued between 1967 and 2025 and pr
 ▸ Volumes of *AFL-CIO News* (1956–1996) digitised by the [University of Maryland, College Park](https://archive.org/search?query=collection%3A%22university_maryland_cp%22+title%3A%22AFL-CIO+news%22)  
 ▸ [VoteView](https://voteview.com)
 
+### Archival Composition<img src="img/sp.svg" align="bottom">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/archival_dark.svg">
+  <img src="img/archival_light.svg" width="782">
+</picture>
+
 ### References<img src="img/sp.svg" align="bottom">
 
 AFL-CIO. (n.d.). *Legislative Scorecard*. Retrieved September 19, 2026, from https://aflcio.org/scorecard
